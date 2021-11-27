@@ -148,3 +148,24 @@ google*****.htmlをダウンロードして
 あとは確認ボタンを押して完了です。
 
 sitemapなども作ってみてください。
+
+## 今後の予定
+one driveなどのクラウドサービスにも対応する予定
+
+<table>
+            <tr>
+                        <th>pratform</th><th>　</th>
+            </tr>
+            <tr>
+                        <td>google drive</th><th>○</td>
+            </tr>
+            <tr>
+                        <td>one drive</th><th>×</td>
+            </tr>
+            <tr>
+                        <td>dropbox</th><th>×</td>
+            </tr>
+            <tr>
+                        <td>etc...</th><th>×</td>
+            </tr>
+</table>
