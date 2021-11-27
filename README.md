@@ -16,6 +16,17 @@ google driveにwebサイトをホスティングすることができるツー�
 ## 普通にファイルにアクセスする
 https://kumowhost.rihitosan.com/g/f/(google driveのファイルのid)
 
+### google driveのid取得
+
+特定のファイルを右クリックしてから[リンクの取得]をクリックして[制限付き]から[リンクを知っている人全員]を選択してください。
+
+そうするとこのようなurlが出きます。そして、********の部分がidとなります。
+
+```
+https://drive.google.com/file/d/********/view?usp=sharing
+```
+
+
 ## ファイルの基本的な作り方
 
 拡張子をbmp,jpg,png,gifなどの画像ファイルの拡張子に変えてください。
