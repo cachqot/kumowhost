@@ -9,6 +9,9 @@
             </p>
             <br>
 
+## About
+
+google driveにwebサイトをホスティングすることができるツールです。
 
 ## 普通にファイルにアクセスする
 https://kumowhost.rihitosan.com/g/f/(google driveのファイルのid)
